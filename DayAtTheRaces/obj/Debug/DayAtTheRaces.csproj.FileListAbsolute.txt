@@ -1,0 +1,21 @@
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe.config
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.pdb
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csprojAssemblyReference.cache
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Form1.resources
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Properties.Resources.resources
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.GenerateResource.cache
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.CoreCompileInputs.cache
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.exe
+C:\Users\hp user\Documents\Visual Studio 2019\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.pdb
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe.config
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.pdb
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.AssemblyReference.cache
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.SuggestedBindingRedirects.cache
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Form1.resources
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Properties.Resources.resources
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.GenerateResource.cache
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.CoreCompileInputs.cache
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.exe
+E:\Emmanuel Fey\Coding work\Projects\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.pdb
